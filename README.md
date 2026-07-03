@@ -67,7 +67,7 @@ Summarizes important business insights and observations derived from the dashboa
 
 ---
 
-## 📂 Data Preparation
+##  Data Preparation
 
 The dataset was transformed using Power Query.
 
@@ -83,7 +83,7 @@ Data preparation included:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 - Interactive KPI Cards
 - Dynamic Charts
@@ -94,33 +94,33 @@ Data preparation included:
 
 ---
 
-# 📸 Dashboard Preview
+# Dashboard Preview
 
-## 🏠 Overview Dashboard
+##  Consolidated view  of Dashboard
 
 ![Overview Dashboard](assets/overview.png)
 
 ---
 
-## 📅 Monthly Analysis
+## Monthly Analysis
 
 ![Monthly Analysis](assets/monthly_view.png)
 
 ---
 
-## 👥 Patient Details
+##  Patient Details
 
 ![Patient Details](assets/patient_data.png)
 
 ---
 
-## 📌 Key Takeaways
+##  Key Takeaways
 
 ![Key Takeaways](assets/Insights.png)
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -132,7 +132,7 @@ Data preparation included:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 Hospital-Emergency-Room-Dashboard/
