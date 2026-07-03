@@ -58,7 +58,7 @@ Summarizes important business insights and observations derived from the dashboa
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Power BI
 - Power Query
