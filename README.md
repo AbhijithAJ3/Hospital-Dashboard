@@ -1,16 +1,16 @@
-# 🏥 Hospital Emergency Room Dashboard
+# Hospital Emergency Room Dashboard
 
 An end-to-end Power BI project showcasing hospital emergency room analytics using Power Query, DAX, and data modeling to deliver interactive healthcare insights.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This Power BI dashboard analyzes hospital emergency room operations by providing insights into patient volume, waiting times, referrals, demographics, and admission trends. The report is designed to support data-driven decision-making through interactive visualizations and KPIs.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze emergency room patient trends.
 - Monitor average waiting time and patient satisfaction.
@@ -21,7 +21,7 @@ This Power BI dashboard analyzes hospital emergency room operations by providing
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### 1. Overview Dashboard
 Displays key performance indicators and a summary of emergency room operations.
@@ -53,7 +53,7 @@ Detailed patient-level analysis including:
 
 ---
 
-### 4. Key Takeaways
+### 4. Insights
 Summarizes important business insights and observations derived from the dashboard.
 
 ---
