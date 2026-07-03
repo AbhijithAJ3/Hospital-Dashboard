@@ -98,25 +98,25 @@ Data preparation included:
 
 ## 🏠 Overview Dashboard
 
-![Overview Dashboard](assets/overview_dashboard.png)
+![Overview Dashboard](assets/overview.png)
 
 ---
 
 ## 📅 Monthly Analysis
 
-![Monthly Analysis](assets/monthly_analysis.png)
+![Monthly Analysis](assets/monthly_view.png)
 
 ---
 
 ## 👥 Patient Details
 
-![Patient Details](assets/patient_details.png)
+![Patient Details](assets/patient_data.png)
 
 ---
 
 ## 📌 Key Takeaways
 
-![Key Takeaways](assets/key_takeaways.png)
+![Key Takeaways](assets/Insights.png)
 
 ---
 
