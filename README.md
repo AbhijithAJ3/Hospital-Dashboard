@@ -132,26 +132,9 @@ Data preparation included:
 
 ---
 
-## Repository Structure
 
-```text
-Hospital-Emergency-Room-Dashboard/
-│
-├── Hospital Dashboard.pbix
-├── README.md
-├── assets/
-│   ├── overview_dashboard.png
-│   ├── monthly_analysis.png
-│   ├── patient_details.png
-│   └── key_takeaways.png
-└── dataset/
-```
 
----
-
-## 👨‍💻 Author
+##  Author
 
 **Abhijith P Anil**
 
-- GitHub: https://github.com/YourUsername
-- LinkedIn: https://linkedin.com/in/YourProfile
