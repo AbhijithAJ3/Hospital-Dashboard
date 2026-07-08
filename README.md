@@ -116,7 +116,7 @@ Data preparation included:
 
 ##  Key Takeaways
 
-![Key Takeaways](assets/Insights.png)
+![Key Takeaways](assets/insight.png)
 
 ---
 
